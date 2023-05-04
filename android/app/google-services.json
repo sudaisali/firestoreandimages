@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218099232870",
+    "project_id": "fir-firestore-20cc4",
+    "storage_bucket": "fir-firestore-20cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218099232870:android:54f5c9a3d0c4225900fda7",
+        "android_client_info": {
+          "package_name": "com.example.firestoreandimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218099232870-q7o2b9jsjc714vs74ukkqb10onsk8778.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmTds_-_1qU75zPr2xdcFo8PHmAXU7Cao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218099232870-q7o2b9jsjc714vs74ukkqb10onsk8778.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
